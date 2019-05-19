@@ -1,0 +1,25 @@
+html,
+body {
+  background-color: #fff;
+}
+
+.cta-container {
+  text-align: center;
+  margin-top: 290px;
+  position: absolute;
+  z-index: 9999;
+  width: 100%;
+  font-family: "Noto Sans", serif;
+}
+
+.cta {
+  color: #fff;
+  border: 2px solid #2196f3;
+  background-color: #2196f3;
+  padding: 10px 25px;
+  border-radius: 50px;
+  font-size: 17px;
+  /* text-decoration: none; */
+  font-weight: bold;
+  cursor: pointer;
+}
