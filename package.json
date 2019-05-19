@@ -2,7 +2,7 @@
   "name": "react-animated-fab",
   "version": "1.0.0",
   "description": "Animated Floating Action Button For React JS",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "nwb build-react-app",
     "clean": "nwb clean-app",
