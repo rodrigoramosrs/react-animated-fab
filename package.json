@@ -1,6 +1,6 @@
 {
   "name": "react-animated-fab",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Animated Floating Action Button For React JS",
   "private": false,
   "main": "lib/index.js",
